@@ -1,1 +1,7 @@
-        
+draw = function(){
+ellipse(200, 200, 200, 200);
+rect(90, 90, 90, 90);
+var BlooketHackDead = 20
+}
+Number(prompt('Blooket hacks are probably dead lol'));
+alert('Sad right?');
